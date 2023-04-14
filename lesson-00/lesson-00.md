@@ -16,6 +16,6 @@ I personally will use a full version since the company which I work have bought 
 
 ## Development Kit
 
-A dedicated hardware in the form of a development kit is required if to follow through all the way with all the documents in the course. The kit chosen for the course is is based on the inexpensive and widely available EK-TM4C123GXL board from Texas Instruments, also known under the name TivaC LaunchPad.
+A dedicated hardware in the form of a development kit is required if to follow through all the way with all the documents in the course. The kit chosen for the course is is based on the board [EK-TM4C123GXL](http://www.ti.com/tool/ek-tm4c123gxl) from Texas Instruments, also known under the name TivaC LaunchPad.
 
 I personally happened to have this kit available at home already, lets hope it is still functional.
