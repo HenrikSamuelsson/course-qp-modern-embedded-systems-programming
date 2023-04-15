@@ -10,3 +10,4 @@ Notes and exercises related to taking Modern Embedded Systems Programming Video 
 ## Notes
 
 [Lesson 00 - Getting Started](/lesson-00/lesson-00.md)  
+[Lesson 01 - How computers count?](/lesson-01/lesson-01.md)  
