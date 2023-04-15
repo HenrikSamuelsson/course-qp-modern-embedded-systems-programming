@@ -21,4 +21,11 @@ Need to choose the processor used in this project, this is known as the target.
 
 ## Compile Test
 
-Compile the project by pressing F7.
+Compile the project by pressing F7. Check the result in the Build view. Should see messages like below:
+
+```txt
+Total number of errors: 0
+Total number of warnings: 0
+
+Build succeeded
+```
